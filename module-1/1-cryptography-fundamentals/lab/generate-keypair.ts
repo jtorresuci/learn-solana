@@ -4,7 +4,6 @@ import bs58 from 'bs58';
 // import { getKeypairFromEnvironment } from "@solana-developers/helpers";
 
 
-import { Keypair } from "@solana/web3.js";
 
 const keypair = Keypair.generate();
 
